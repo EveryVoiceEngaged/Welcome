@@ -18,4 +18,4 @@ You will need to install each of these items to build and run the software local
 6. If you're planning to make style sheet changes, you'll need to install the [Compass.app](https://github.com/KKBOX/compassapp/releases) to complile the SCSS code.
 
 ## Development Environment Requirements - Option B - devops build, test, deploy
-If you're working on a branch linked to our development or staging pipeline, commits and pull requests trigger builds, tests, and deployment to the linked container.  Note that CSS changes will still require local compliation of the SCSS code.
+If you're working on a branch linked to our development or staging pipeline, commits and pull requests trigger builds, tests, and deployment to the linked container.  Note that CSS changes will still require local compilation of the SCSS code.
